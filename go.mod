@@ -4,7 +4,7 @@ go 1.23.2
 
 require (
 	github.com/mattn/go-sqlite3 v1.14.16
-	github.com/mpetavy/common v1.9.51
+	github.com/mpetavy/common v1.9.54
 )
 
 require (
@@ -33,6 +33,7 @@ require (
 	github.com/mattn/go-isatty v0.0.18 // indirect
 	github.com/ompluscator/dynamic-struct v1.4.0 // indirect
 	github.com/paulrosania/go-charset v0.0.0-20190326053356-55c9d7a5834c // indirect
+	github.com/pkg/errors v0.9.1 // indirect
 	github.com/quasoft/memstore v0.0.0-20191010062613-2bce066d2b0b // indirect
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
