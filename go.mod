@@ -4,7 +4,7 @@ go 1.23.2
 
 require (
 	github.com/mattn/go-sqlite3 v1.14.16
-	github.com/mpetavy/common v1.9.70
+	github.com/mpetavy/common v1.9.71
 )
 
 require (
