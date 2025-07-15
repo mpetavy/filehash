@@ -3,8 +3,8 @@ module filehash
 go 1.23.2
 
 require (
-	github.com/mattn/go-sqlite3 v1.14.16
-	github.com/mpetavy/common v1.10.42
+	github.com/mattn/go-sqlite3 v1.14.22
+	github.com/mpetavy/common v1.10.45
 )
 
 require (
